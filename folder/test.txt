@@ -1,0 +1,9 @@
+##How to push code into git 
+
+step 1 : create the repository in the git 
+step 2 : clone the repo in the directory 
+step 3 : git add -A 
+step 4 : git commit -m 'Added my project' 
+step 5 : git remote add origin main 
+
+
